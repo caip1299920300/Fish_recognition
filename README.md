@@ -110,20 +110,20 @@ log_draw_loss_suc = True # 是否需要通过日志绘图
 
 ## 六、项目结构
 
-Project:
-├─checkpoints  		# 预训练权重 
-├─fish_data	 		# 数据集
-│  ├─fish_photos	# 完整数据集
-│  ├─test			# 自己准备测试集
-│  ├─train			# 划分训练集
-│  └─val			# 划分验证集
-├─img		             # 运行mardown显示
-├─logs			      # 训练日志
-├─nets                             # py模型文件
-├─save_weights             # 保存训练模型文件
-└─predict.py                   # 预测脚本
-└─train.py                       # 训练脚本
-└─split_data.py              # 数据集划分
-└─Reptiles.py                 # 数据集爬取
-└─class_indices.json     # 种类字典
-└─requirements.txt      # 项目环境文件
+> Project:
+> ├─checkpoints  		# 预训练权重 
+> ├─fish_data	 		# 数据集
+> │  ├─fish_photos	# 完整数据集
+> │  ├─test			# 自己准备测试集
+> │  ├─train			# 划分训练集
+> │  └─val			# 划分验证集
+> ├─img		             # 运行mardown显示
+> ├─logs			      # 训练日志
+> ├─nets                             # py模型文件
+> ├─save_weights             # 保存训练模型文件
+> └─predict.py                   # 预测脚本
+> └─train.py                       # 训练脚本
+> └─split_data.py              # 数据集划分
+> └─Reptiles.py                 # 数据集爬取
+> └─class_indices.json     # 种类字典
+> └─requirements.txt      # 项目环境文件
