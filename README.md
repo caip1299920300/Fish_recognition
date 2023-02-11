@@ -21,27 +21,27 @@
 
 **1、AlexNet**
 
-<div align="center">  <img src="img/AlexNet_acc.png"  height=350><img src="img/AlexNet_loss.png" height=200> </div>
+<div align="center">  <img src="img/AlexNet_acc.png"  height=300><img src="img/AlexNet_loss.png" height=300> </div>
 
 **2、Googlenet**
 
-<div align="center">  <img src="img/Googlenet_acc.png"  height=350><img src="img/Googlenet_loss.png" height=200> </div>
+<div align="center">  <img src="img/Googlenet_acc.png"  height=300><img src="img/Googlenet_loss.png" height=300> </div>
 
 **3、VGG16**
 
-<div align="center">  <img src="img/VGG_acc.png"  height=350><img src="img/VGG_loss.png" height=200> </div>
+<div align="center">  <img src="img/VGG_acc.png"  height=300><img src="img/VGG_loss.png" height=300> </div>
 
 **4、Resnet50（使用了预训练权重）**
 
-<div align="center">  <img src="img/Resnet_acc.png"  height=350><img src="img/Resnet_loss.png" height=200> </div>
+<div align="center">  <img src="img/Resnet_acc.png"  height=300><img src="img/Resnet_loss.png" height=300> </div>
 
 **5、MobilenetV3**
 
-<div align="center">  <img src="img/MobilenetV3_acc.png"  height=350><img src="img/MobilenetV3_loss.png" height=200> </div>
+<div align="center">  <img src="img/MobilenetV3_acc.png"  height=300><img src="img/MobilenetV3_loss.png" height=300> </div>
 
 **6、ShufflenetV2**
 
-<div align="center">  <img src="img/Shufflenet_acc.png"  height=350><img src="img/Shufflenet_loss.png" height=200> </div>
+<div align="center">  <img src="img/Shufflenet_acc.png"  height=300><img src="img/Shufflenet_loss.png" height=300> </div>
 
 ## 二、环境介绍
 
