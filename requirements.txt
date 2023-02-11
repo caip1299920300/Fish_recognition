@@ -1,0 +1,7 @@
+beautifulsoup4==4.11.2
+matplotlib==3.5.1
+numpy==1.21.5
+Pillow==9.4.0
+requests==2.25.1
+tensorflow==2.11.0
+tensorflow_gpu==2.5.0
