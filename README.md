@@ -2,6 +2,8 @@
 
 9类鱼类识别模型搭建，从网上爬取9类鱼，对爬取的数据进行数据清理等操作；搭建AlexNet等经典的分类网络，对数据集进行训练。
 
+项目对应gitee地址： https://gitee.com/wucaip/Fish_recognition
+
 ------
 
 
